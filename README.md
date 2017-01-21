@@ -1,4 +1,4 @@
-![sinatra](https://github.com/marceloluizleite/shortener_of_url/blob/master/sinatra.png)
+![sinatra](https://github.com/marceloluizleite/shortener_of_url/blob/master/sinatra.jpeg)
 By [Marcelo Luiz Leite](https://www.linkedin.com/in/marceloluizleite/)
 
 [![Build Status](https://secure.travis-ci.org/sinatra/sinatra.svg)](http://travis-ci.org/sinatra/sinatra)
