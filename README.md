@@ -1,4 +1,4 @@
-![Sinatra Logo](https://github.com/marceloluizleite/shortener_of_url/edit/master/sinatra.png)
+![sinatra](https://github.com/marceloluizleite/shortener_of_url/edit/master/sinatra.png)
 By [Marcelo Luiz Leite](https://www.linkedin.com/in/marceloluizleite/)
 
 # URL's Amigaveis - Encurtador de URL's.
@@ -6,7 +6,9 @@ By [Marcelo Luiz Leite](https://www.linkedin.com/in/marceloluizleite/)
 Olá seja muito bem-vindo(a) ao meu primeiro projeto no framework Sinatra.
 A ideia é a construção de um encurtador de urls. 
 
-Para executar o projeto primeiramente vamos clonar o projeto. Estando no
+### Clonando o Projeto:
+
+Para executar o projeto primeiramente vamos clona-lo. Estando no
 terminal, navegue até a pasta onde deseja copiar o projeto e digite o comando:
 
 ```console
@@ -17,19 +19,23 @@ Agora entre na pasta do projeto:
 ```console
 $ cd shortener_of_url
 ```
+### Instalando as depedências:
 
 Em seguida instale as dependencias rodando o comando `bundle install`:
 
 ```console
 $ bundle install
 ```
+
+### Executando o projeto:
+
 Com as dependencias instaladas agora podemos executar o projeto com o comando:
 
 ```console
 $ ruby shortener_of_url.rb
 ```
 
-Acesse em seu navegador: [http://localhost:4567](http://localhost:4567)
+Para acessa-lo digite em seu navegador a URL: [http://localhost:4567](http://localhost:4567)
 
 
 
